@@ -1,0 +1,14 @@
+## Interface: 80300
+## Title: ThingsMover
+## Author: MindScape & me
+## Version: 6.0.0
+## Notes: Suite of tools to assist in the manipulation of GameObjects.
+## DefaultState: Enabled
+## SavedVariables: OPAutoDimObjectDB, OPMasterTable
+## X-Changes: TOC Bump to 830
+
+# Original Addon by Dkcaptain (AKA Nomer) / Almost completely remade to update to Legion Enteleaie and expanded by MindScape.
+
+ThingsMover.lua
+ThingsMover.xml
+Bindings.xml
